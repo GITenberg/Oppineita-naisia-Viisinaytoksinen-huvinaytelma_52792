@@ -1,5 +1,5 @@
 _repo: Oppineita-naisia-Viisinaytoksinen-huvinaytelma_52792
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les femmes savantes. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '4617'
     url: http://www.gutenberg.org/2009/agents/4617
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -25,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52792#Oppineita-naisia-Viisinaytoksinen-huvinaytelma
 gutenberg_issued: '2016-08-13'
 gutenberg_type: Text
 identifiers:
