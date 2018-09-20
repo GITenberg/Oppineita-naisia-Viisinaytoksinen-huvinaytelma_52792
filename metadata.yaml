@@ -1,0 +1,42 @@
+_repo: Oppineita-naisia-Viisinaytoksinen-huvinaytelma_52792
+_version: 0.0.1
+alternative_title: Les femmes savantes. Finnish
+contributor:
+  translator:
+    agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Poquelin, Jean-Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2016-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52792'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+- !lcsh 'French drama -- 17th century -- Translations into Finnish'
+- GITenberg
+title: 'Oppineita naisia: Viisinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/52792
